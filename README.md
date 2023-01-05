@@ -1,22 +1,21 @@
 # About Me
 
-I am a software engineer with a passion for solving complex problems. I have experience in a variety of programming languages and am always looking to learn more.
+Hi' I am a cyber security research and CTF player. I enjoy participating in CTF events and solving challenging cybersecurity tasks. My areas of expertise include reverse engineering, cryptography, and network security.
 
+[![Linkedin Badge](https://img.shields.io/badge/-4m3rr0r-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/4m3rr0r/)](https://www.linkedin.com/in/4m3rr0r/) [![Twitter Badge](http://img.shields.io/badge/-@4m3rr0r-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/4m3rr0r)](https://twitter.com/4m3rr0r) [![Medium Badge](http://img.shields.io/badge/-@4m3rr0r-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@4m3rr0r)](https://medium.com/@4m3rr0r)
+
+
+```yaml
+-Details:
+      -Name: Sheikh Mohammad Hasan
+      -county:Bangladesh
+      -Job: Developer&Security Researcher
+-
+
+```
 ## Skills
 
 - Python
-- Java
 - C++
-- HTML/CSS
-- Git
-
-## Projects
-
-- [Project 1](https://github.com/user/project1)
-- [Project 2](https://github.com/user/project2)
-- [Project 3](https://github.com/user/project3)
-
-## Contact
-
-- Email: [user@example.com](mailto:user@example.com)
-- LinkedIn: [linkedin.com/in/user](https://linkedin.com/in/user)
+- bash
+- HTML/CSS/js/mysql
