@@ -8,14 +8,16 @@ Hi' I am a cyber security research and CTF player. I enjoy participating in CTF 
 ```yaml
 -Details:
       -Name: Sheikh Mohammad Hasan
-      -county:Bangladesh
+      -county: Bangladesh
       -Job: Developer&Security Researcher
 -
 
 ```
 ## Skills
 
+- C
 - Python
-- C++
 - bash
-- HTML/CSS/js/mysql
+- mysql
+- javascript
+- HTML/CSS/bootstrap/jquery
