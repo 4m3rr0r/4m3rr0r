@@ -9,7 +9,6 @@ Hi' I am a cyber security research and CTF player. I enjoy participating in CTF 
 -Details:
       -Name: Sheikh Mohammad Hasan
       -county: Bangladesh
-      -Job: Developer&Security Researcher
 -
 
 ```
