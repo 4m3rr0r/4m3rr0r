@@ -12,11 +12,11 @@ Hi,' I am a cyber security research and CTF player. I enjoy participating in CTF
 -
 
 ```
-## Skills
+## language
 
 - C
 - Python
 - bash
 - mysql
 - javascript
-- HTML/CSS/bootstrap/jquery
+- HTML/CSS
