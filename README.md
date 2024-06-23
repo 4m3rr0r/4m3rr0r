@@ -1,3 +1,7 @@
+<div>
+    <img src="github-snake.svg">
+</div>
+
 # About Me
 
 Hi,' I am a cyber security research and CTF player. I enjoy participating in CTF events and solving challenging cybersecurity tasks. My areas of expertise include OSINT, Forensics, cryptography, steganography, web hacking, and network security
