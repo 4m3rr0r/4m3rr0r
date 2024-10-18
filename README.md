@@ -22,8 +22,11 @@ Hi,' I am a cyber security research and CTF player. I enjoy participating in CTF
 - Python
 - javascript
 - bash
-- mysql / MongoDB
 - HTML / CSS
+
+## Database
+- mysql
+- MongoDB
 
 ## framework
 
