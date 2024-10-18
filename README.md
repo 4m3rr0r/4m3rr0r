@@ -20,7 +20,20 @@ Hi,' I am a cyber security research and CTF player. I enjoy participating in CTF
 
 - C
 - Python
-- bash
-- mysql
 - javascript
-- HTML/CSS
+- bash
+- mysql / MongoDB
+- HTML / CSS
+
+## framework
+
+- bootstrap
+- Tailwind CSS
+- react js
+- node js
+
+## CMS
+- wordpress
+
+
+  
