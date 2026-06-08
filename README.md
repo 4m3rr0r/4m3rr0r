@@ -6,7 +6,7 @@
 ### `4m3rr0r` · Offensive Security · Vulnerability Research · Exploit Development
 
 [![GitHub followers](https://img.shields.io/github/followers/4m3rr0r?style=flat-square&color=1f6feb&labelColor=0d1117&label=followers)](https://github.com/4m3rr0r)
-[![Blog](https://img.shields.io/badge/📝-Blog-1f6feb?style=flat-square&labelColor=0d1117)](https://blog.4m3rr0r.me/)
+[![website](https://img.shields.io/badge/🌐-Website-1f6feb?style=flat-square&labelColor=0d1117)](https://4m3rr0r.me/)
 [![YouTube](https://img.shields.io/badge/▶️-YouTube-1f6feb?style=flat-square&labelColor=0d1117)](https://www.youtube.com/@4m3rr0r)
 [![Location](https://img.shields.io/badge/🇧🇩-Bangladesh-1f6feb?style=flat-square&labelColor=0d1117)](https://github.com/4m3rr0r)
 [![Profile Views](https://komarev.com/ghpvc/?username=4m3rr0r&style=flat-square&color=1f6feb&label=profile+views)](https://github.com/4m3rr0r)
