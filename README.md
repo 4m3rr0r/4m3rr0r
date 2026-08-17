@@ -25,17 +25,13 @@ My work focuses on web application security, Active Directory security, attack s
 
 A collection of CVEs assigned to security vulnerabilities reported by me.
 
-## CVE List
-
-| CVE | CVE | CVE | CVE |
-|---|---|---|---|
-| [CVE-2026-6624](https://nvd.nist.gov/vuln/detail/CVE-2026-6624) | [CVE-2026-6623](https://nvd.nist.gov/vuln/detail/CVE-2026-6623) | [CVE-2026-6622](https://nvd.nist.gov/vuln/detail/CVE-2026-6622) | [CVE-2026-5031](https://nvd.nist.gov/vuln/detail/CVE-2026-5031) |
-| [CVE-2026-19966](https://nvd.nist.gov/vuln/detail/CVE-2026-19966) | [CVE-2026-19965](https://nvd.nist.gov/vuln/detail/CVE-2026-19965) | [CVE-2026-1600](https://nvd.nist.gov/vuln/detail/CVE-2026-1600) | [CVE-2026-1599](https://nvd.nist.gov/vuln/detail/CVE-2026-1599) |
-| [CVE-2026-1598](https://nvd.nist.gov/vuln/detail/CVE-2026-1598) | [CVE-2026-1597](https://nvd.nist.gov/vuln/detail/CVE-2026-1597) | [CVE-2025-13239](https://nvd.nist.gov/vuln/detail/CVE-2025-13239) | [CVE-2025-13238](https://nvd.nist.gov/vuln/detail/CVE-2025-13238) |
-| [CVE-2025-13186](https://nvd.nist.gov/vuln/detail/CVE-2025-13186) | [CVE-2025-13185](https://nvd.nist.gov/vuln/detail/CVE-2025-13185) | [CVE-2025-13180](https://nvd.nist.gov/vuln/detail/CVE-2025-13180) | [CVE-2025-13179](https://nvd.nist.gov/vuln/detail/CVE-2025-13179) |
-| [CVE-2025-13178](https://nvd.nist.gov/vuln/detail/CVE-2025-13178) | [CVE-2025-13177](https://nvd.nist.gov/vuln/detail/CVE-2025-13177) | [CVE-2025-12288](https://nvd.nist.gov/vuln/detail/CVE-2025-12288) | [CVE-2025-12287](https://nvd.nist.gov/vuln/detail/CVE-2025-12287) |
-| [CVE-2025-12223](https://nvd.nist.gov/vuln/detail/CVE-2025-12223) | [CVE-2025-12222](https://nvd.nist.gov/vuln/detail/CVE-2025-12222) | [CVE-2025-7885](https://nvd.nist.gov/vuln/detail/CVE-2025-7885) | [CVE-2025-7543](https://nvd.nist.gov/vuln/detail/CVE-2025-7543) |
-| [CVE-2025-7542](https://nvd.nist.gov/vuln/detail/CVE-2025-7542) | [CVE-2025-7534](https://nvd.nist.gov/vuln/detail/CVE-2025-7534) | | |
+| CVE | CVE | CVE | CVE | CVE | CVE |
+|---|---|---|---|---|---|
+| [CVE-2026-6624](https://nvd.nist.gov/vuln/detail/CVE-2026-6624) | [CVE-2026-6623](https://nvd.nist.gov/vuln/detail/CVE-2026-6623) | [CVE-2026-6622](https://nvd.nist.gov/vuln/detail/CVE-2026-6622) | [CVE-2026-5031](https://nvd.nist.gov/vuln/detail/CVE-2026-5031) | [CVE-2026-19966](https://nvd.nist.gov/vuln/detail/CVE-2026-19966) | [CVE-2026-19965](https://nvd.nist.gov/vuln/detail/CVE-2026-19965) |
+| [CVE-2026-1600](https://nvd.nist.gov/vuln/detail/CVE-2026-1600) | [CVE-2026-1599](https://nvd.nist.gov/vuln/detail/CVE-2026-1599) | [CVE-2026-1598](https://nvd.nist.gov/vuln/detail/CVE-2026-1598) | [CVE-2026-1597](https://nvd.nist.gov/vuln/detail/CVE-2026-1597) | [CVE-2025-13239](https://nvd.nist.gov/vuln/detail/CVE-2025-13239) | [CVE-2025-13238](https://nvd.nist.gov/vuln/detail/CVE-2025-13238) |
+| [CVE-2025-13186](https://nvd.nist.gov/vuln/detail/CVE-2025-13186) | [CVE-2025-13185](https://nvd.nist.gov/vuln/detail/CVE-2025-13185) | [CVE-2025-13180](https://nvd.nist.gov/vuln/detail/CVE-2025-13180) | [CVE-2025-13179](https://nvd.nist.gov/vuln/detail/CVE-2025-13179) | [CVE-2025-13178](https://nvd.nist.gov/vuln/detail/CVE-2025-13178) | [CVE-2025-13177](https://nvd.nist.gov/vuln/detail/CVE-2025-13177) |
+| [CVE-2025-12288](https://nvd.nist.gov/vuln/detail/CVE-2025-12288) | [CVE-2025-12287](https://nvd.nist.gov/vuln/detail/CVE-2025-12287) | [CVE-2025-12223](https://nvd.nist.gov/vuln/detail/CVE-2025-12223) | [CVE-2025-12222](https://nvd.nist.gov/vuln/detail/CVE-2025-12222) | [CVE-2025-7885](https://nvd.nist.gov/vuln/detail/CVE-2025-7885) | [CVE-2025-7543](https://nvd.nist.gov/vuln/detail/CVE-2025-7543) |
+| [CVE-2025-7542](https://nvd.nist.gov/vuln/detail/CVE-2025-7542) | [CVE-2025-7534](https://nvd.nist.gov/vuln/detail/CVE-2025-7534) | | | | |
 
 ## Current Focus
 
